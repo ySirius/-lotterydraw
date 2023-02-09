@@ -1,0 +1,44 @@
+{
+  "bizCode": "000000",
+  "bizMessage": "",
+  "data": {
+    "defineId": "b1dffba5c02f4fe19f3ac766f3432018",
+    "prizeInfo": [{
+      "level": 1,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "保时捷911"
+    }, {
+      "level": 2,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "按摩券*3"
+    }, {
+      "level": 3,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "刷鞋券*2"
+    }, {
+      "level": 4,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "按摩券*1"
+    }, {
+      "level": 5,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "刷鞋券*1"
+    }, {
+      "level": 6,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "5.20元爱心红包"
+    }, {
+      "level": 7,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "1元心意红包"
+    }, {
+      "level": 8,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "commodityName": "空气，啥也没有"
+    }],
+    "beginTime": 1506519900000,
+    "endTime": 1601446191000,
+    "currTime": 1506751791732
+  },
+  "success": true
+}
